@@ -16,5 +16,5 @@
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png">
 
-![Wesley's github stats](https://github-readme-stats.vercel.app/api?username=wesleykcarlesso&show_icons=true&theme=dracula&include_all_commits=true) 
+![Wesley's github stats](https://github-readme-stats.vercel.app/api?username=wesleykcarlesso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleykcarlesso&layout=compact&langs_count=8&theme=dracula)
