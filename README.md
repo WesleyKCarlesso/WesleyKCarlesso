@@ -1,7 +1,6 @@
 ### Hi there 👋, My name is Wesley Kasteller Carlesso
 
 - 🔭 **I’m currently working on server side .Net technologies.**
-- 🌱 **I’m currently learning IA and Machine Learning with Python.**
 - 🎓 **I'm studying Computer Science in Unifil**
 
 **Languages and Tools:**
