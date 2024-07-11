@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Wesley Kasteller Carlesso
 
 - 🔭 **I’m currently working on server side .Net technologies.**
-- 🎓 **I'm studying Computer Science in Unifil**
+- 🎓 **I have a degree in Computer Science from Unifil.**
 
 **Languages and Tools:**
 <img height="30" src="https://hermes.digitalinnovation.one/articles/cover/496931d9-69d6-4956-bb0a-032dd5792ade.png">
