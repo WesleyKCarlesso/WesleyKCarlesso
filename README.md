@@ -1,10 +1,9 @@
 ### Hi there 👋, My name is Wesley Kasteller Carlesso
 
-- 🔭 **I’m currently working on server side .Net technologies.**
+- 💻 **I’m currently working on server side .Net technologies.**
 - 🎓 **I have a Bachelor's degree in Computer Science from Unifil.**
 
-**Languages and Tools:**
-
+**Languages and Tools:** <br><br>
 <img height="30" src="https://hermes.digitalinnovation.one/articles/cover/496931d9-69d6-4956-bb0a-032dd5792ade.png">
 <img height="30" src="https://www.svgrepo.com/show/353396/angular-icon.svg">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
