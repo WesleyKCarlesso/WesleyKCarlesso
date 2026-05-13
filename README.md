@@ -1,5 +1,10 @@
 # Hi there 👋, My name is Wesley Kasteller Carlesso
 
+## 📊 GitHub Stats
+<div align="center">
+    <img height="220px" src="https://awesome-github-stats.azurewebsites.net/user-stats/WesleyKCarlesso?cardType=level-alternate&background=0a0c10&border=6474B9&ring=6474B9&title=6474B9&text=937CD5&icon=937CD5" alt="Wesley Carlesso's GitHub Stats"/>
+</div>
+
 ## About me:
 
 - 💻 Full-Stack Developer focused on **.NET server-side applications**
